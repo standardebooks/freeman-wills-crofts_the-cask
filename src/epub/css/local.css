@@ -23,12 +23,6 @@ figure + p{
 	text-indent: 0;
 }
 
-figcaption{
-	font-size: .75em;
-	font-style: italic;
-	margin: 1em;
-}
-
 [epub|type~="z3998:letter"] header{
 	text-align: right;
 	margin-bottom: 1em;

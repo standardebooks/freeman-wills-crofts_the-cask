@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-20.xhtml">
+		<ignore>
+			<code>t-001</code>
+			<reason>Spacing is correct in the blockquote with missing letters.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
