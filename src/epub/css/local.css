@@ -53,6 +53,11 @@ footer{
 	text-align: left;
 }
 
+#chapter-15 blockquote p{
+	text-indent: 0;
+	text-align: center;
+}
+
 #chapter-16 blockquote p{
 	text-indent: 0;
 }
