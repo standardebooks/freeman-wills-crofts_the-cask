@@ -2,8 +2,8 @@
 <se-lint-ignore>
 	<file path="chapter-20.xhtml">
 		<ignore>
-			<code>t-001</code>
-			<reason>Spacing is correct in the blockquote with missing letters.</reason>
+			<code>t-029</code>
+			<reason>Periods and capitalization are used in this way to emulate the unique style of the letter.</reason>
 		</ignore>
 	</file>
 </se-lint-ignore>
