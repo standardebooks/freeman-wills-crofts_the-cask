@@ -33,7 +33,7 @@ figure + p{
 }
 
 [epub|type~="z3998:letter"] header > p + p{
-	text-align: left;
+	text-align: initial;
 }
 
 footer{
@@ -50,7 +50,7 @@ footer{
 [epub|type~="z3998:postscript"]{
 	margin-top: 1em;
 	text-indent: 0;
-	text-align: left;
+	text-align: initial;
 }
 
 #chapter-15 blockquote p{
