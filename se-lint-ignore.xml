@@ -10,4 +10,10 @@
 			<reason>Matched text is not a typo.</reason>
 		</ignore>
 	</file>
+	<file path="chapter-27.xhtml">
+		<ignore>
+			<code>c-015</code>
+			<reason>Salutation is in a prose context so text-indent does not apply.</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>
