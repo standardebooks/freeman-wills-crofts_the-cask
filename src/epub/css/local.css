@@ -26,8 +26,8 @@ figure img{
 }
 
 [epub|type~="z3998:letter"] header{
-	text-align: right;
 	margin-bottom: 1em;
+	text-align: right;
 }
 
 [epub|type~="z3998:letter"] header > p{
@@ -51,13 +51,13 @@ footer{
 
 [epub|type~="z3998:postscript"]{
 	margin-top: 1em;
-	text-indent: 0;
 	text-align: initial;
+	text-indent: 0;
 }
 
 #chapter-15 blockquote p{
-	text-indent: 0;
 	text-align: center;
+	text-indent: 0;
 }
 
 #chapter-16 blockquote p{
