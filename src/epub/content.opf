@@ -40,6 +40,8 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh2008107761</meta>
 		<meta property="se:subject">Fiction</meta>
+		<meta id="collection-1" property="belongs-to-collection">Haycraft Queen Cornerstones</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
 		<dc:description id="description">A cask dropped during the unloading of a ship sets detectives on the trail of a murderer.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;During the unloading of an Insular and Continental Steam Navigation Company ship arrived from Rouen, the &lt;i&gt;Bullfinch&lt;/i&gt;, a cask falls, splits, and reveals its unexpected contents. As the dockworkers try to work out what to do, &lt;abbr&gt;Mr.&lt;/abbr&gt; Léon Felix arrives and claims the cask as his own. His actions set into motion a complicated trail for the detectives of London’s Scotland Yard and Paris’s Sûreté to follow to the end.&lt;/p&gt;
