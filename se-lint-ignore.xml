@@ -6,7 +6,7 @@
 			<reason>Periods and capitalization are used in this way to emulate the unique style of the letter.</reason>
 		</ignore>
 		<ignore>
-			<code>t-042</code>
+			<code>y-016</code>
 			<reason>Matched text is not a typo.</reason>
 		</ignore>
 	</file>
