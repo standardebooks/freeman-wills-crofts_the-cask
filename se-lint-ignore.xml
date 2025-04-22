@@ -9,5 +9,9 @@
 			<code>y-016</code>
 			<reason>Matched text is not a typo.</reason>
 		</ignore>
+		<ignore>
+			<code>y-034</code>
+			<reason>Matched text is not a typo.</reason>
+		</ignore>
 	</file>
 </se-lint-ignore>
