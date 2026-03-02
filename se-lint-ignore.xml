@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
 	<file path="chapter-20.xhtml">
-		<ignore>
-			<code>t-029</code>
+		<ignore code="t-029">
 			<reason>Periods and capitalization are used in this way to emulate the unique style of the letter.</reason>
 		</ignore>
-		<ignore>
-			<code>y-016</code>
+		<ignore code="y-016">
 			<reason>Matched text is not a typo.</reason>
 		</ignore>
-		<ignore>
-			<code>y-034</code>
+		<ignore code="y-034">
 			<reason>Matched text is not a typo.</reason>
 		</ignore>
 	</file>
