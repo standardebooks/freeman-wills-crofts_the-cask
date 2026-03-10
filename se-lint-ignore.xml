@@ -2,12 +2,19 @@
 <se-lint-ignore>
 	<file path="chapter-20.xhtml">
 		<ignore code="t-029">
+			<line>116</line>
 			<reason>Periods and capitalization are used in this way to emulate the unique style of the letter.</reason>
 		</ignore>
 		<ignore code="y-016">
+			<line>115</line>
+			<line>116</line>
+			<line>117</line>
 			<reason>Matched text is not a typo.</reason>
 		</ignore>
 		<ignore code="y-034">
+			<line>115</line>
+			<line>116</line>
+			<line>117</line>
 			<reason>Matched text is not a typo.</reason>
 		</ignore>
 	</file>
