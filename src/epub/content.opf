@@ -51,7 +51,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/59854</dc:source>
 		<dc:source>https://archive.org/details/cask00crof</dc:source>
-		<meta property="schema:wordCount">113185</meta>
+		<meta property="schema:wordCount">113186</meta>
 		<meta property="schema:educationalLevel">74.08</meta>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
